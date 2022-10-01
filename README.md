@@ -1,12 +1,15 @@
+
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-
-# Math magicians
-
-> "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related
+> # "hello-rails-back-end" app 
+Set up a "Hello world Front-end" project with two apps
 
 ## Built With
 
--React Js
+-Ruby on Rails and React
+
+## Link to back-end
+
+[Back-end](https://github.com/bizip/-hello-rails-back-end/pull/1)
 
 ## Getting Started
 
@@ -15,19 +18,19 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 You need to have a git installed
-You need to have a basic knowledge about HTML and CSS
+You need to have a basic knowledge about ruby on rails and React
 
-### Setup
+### Setup the progect
 
-#### clone this project (using git clone https://github.com/bizip/math_magicians.git) to your local computer and use telminal to navigate into the parent directory of this project.
+#### clone this project (using git clone https://github.com/bizip/-hello-rails-front-end.git) to your local computer and use telminal to navigate into the parent directory of this project.
 
-### Install
+## OR
+choose this repository as your templete
 
-#### Run npm install
 
 ### Usage
 
-run: npm start
+run: Rails s
 
 ## Authors
 
@@ -56,3 +59,4 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](./MIT.md) licensed.
+
